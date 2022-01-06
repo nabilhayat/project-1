@@ -18,7 +18,7 @@ font-family: 'Titillium Web', sans-serif;
 }
 
 .flexible{
-    background-image: url(/images/shapes/shape-8.png);
+    background-image: url(images/shapes/shape-8.png);
     background-repeat: no-repeat;
     background-size: 15%;
     background-position-x: right;
@@ -185,7 +185,7 @@ p{
 }
 
 .fourth-div{
-    background-image: url(/images/shapes/shape-5.png);
+    background-image: url(images/shapes/shape-5.png);
 }
 
 .fifth-div img{
@@ -234,7 +234,7 @@ p{
 
 
 .last-section{
-    background-image: url(/images/shapes/shape-7.png);
+    background-image: url(images/shapes/shape-7.png);
     
     background-repeat: no-repeat;
 }
